@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.comment-sec{
+    display: flex;
+    flex-direction: column;
+    width:30%
+}
+.add-comment-button{
+    background-color: #0284c7;
+    width:140px;
+    height:40px;
+    color:white;
+    border-radius: 5px;
+    margin-top: 20px;
+    border-width: 0px;
+}
+.comment-main-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+
+}
+.comment-container{
+    margin-top:20px;
+}
+.align-container{
+     display: flex;
+}
+
+.comment-count-container{
+    display: flex;
+
+}
+.comment-count{
+    background-color: #0284c7;
+    color:white;
+    font-size: 20px;
+    width:35px;
+    height: 35px;
+    text-align: center;
+}
+.comment-text{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.comment-img-box{
+    text-align: right;
+}
